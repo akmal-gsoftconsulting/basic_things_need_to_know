@@ -161,5 +161,53 @@ File System (fs): Working with the file system to read, write, and manipulate fi
 
 
 
+https://agilemanifesto.org/principles.html
 
-Principles behind the Agile Manifesto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==================================(installation of ubuntu on window)============================
+	WSL (Windows Subsystem for Linux) – Install Ubuntu from the Microsoft Store via PowerShell:
+	wsl --install -d Ubuntu
+
+
+
+=================================================(serverless ??)=================================
+What is Serverless Computing?
+No need to manage or provision servers.
+Auto-scaling based on demand.
+Pay only for execution time (not idle time).
+
+======================================(configure and deploy by sls)=============================
+
+To deploy using Serverless Framework (SLS):  
+1. Ensure AWS Credentials are Set (for AWS):
+   sls config credentials --provider aws --key YOUR_AWS_KEY --secret YOUR_AWS_SECRET
+2. Deploy Your Service:
+   sls deploy
+3. Verify Deployment:
+   sls info
+4. Remove Deployment (If Needed):  
+   sls remove
+
+=================================================(AWS??)========================================
+
+**AWS (Amazon Web Services)** is a cloud computing platform by Amazon that provides on-demand services 
+like computing power, storage, databases, networking, AI, and security. It enables businesses to scale
+ without managing physical servers, offering a pay-as-you-go pricing model. 🚀
