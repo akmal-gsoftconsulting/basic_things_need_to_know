@@ -1,0 +1,165 @@
+Here is a list of complete topics in Node.js:
+
+Introduction to Node.js
+Node.js Architecture
+Installation and Setup
+Node.js Global Objects
+Modules in Node.js
+Core Modules
+Custom Modules
+NPM Modules
+Event Loop
+Event Emitter
+File System (fs module)
+Streams in Node.js
+Readable Streams
+Writable Streams
+Duplex Streams
+Transform Streams
+Buffers
+Asynchronous Programming
+Callbacks
+Promises
+Async/Await
+HTTP Module
+HTTP Server
+HTTP Client
+Handling Requests & Responses
+Express.js Framework
+Express Basics
+Routing
+Middleware
+Error Handling
+Template Engines (e.g., Pug, EJS)
+RESTful APIs with Node.js
+REST Principles
+CRUD Operations
+Authentication & Authorization
+Databases
+MongoDB (Mongoose)
+MySQL/PostgreSQL
+Redis
+SQLite
+WebSockets and Real-time Communication
+Authentication and Authorization
+JWT (JSON Web Tokens)
+OAuth
+Passport.js
+Unit Testing in Node.js
+Mocha
+Chai
+Jest
+Error Handling in Node.js
+Security Best Practices
+Cross-Site Scripting (XSS)
+SQL Injection
+CSRF
+Rate Limiting
+Node.js and Security Modules
+Helmet.js
+CORS
+Express-session
+Environment Variables
+Node.js Debugging
+Debugger Module
+Chrome DevTools
+Node-inspect
+Node.js Clustering
+Child Processes
+Logging in Node.js
+Winston
+Bunyan
+Morgan
+Caching in Node.js
+Memory Caching
+Redis Caching
+Task Scheduling
+Node-cron
+File Uploads in Node.js
+Middleware in Express
+Deploying Node.js Applications
+Heroku
+AWS (Elastic Beanstalk, Lambda)
+Docker
+PM2 (Process Manager)
+Performance Optimization
+Profiling
+Caching
+Load Balancing
+Microservices with Node.js
+GraphQL with Node.js
+Node.js with Frontend Frameworks
+React + Node.js
+Angular + Node.js
+Vue + Node.js
+Web Scraping with Node.js
+Cheerio
+Puppeteer
+Command-line Applications in Node.js
+Socket.IO for Real-time Communication
+Deploying with Docker and Kubernetes
+Serverless Architectures with Node.js
+GraphQL and Apollo Server
+API Versioning and Documentation
+Swagger
+OpenAPI
+Caching and Rate Limiting
+Integrating with Third-Party APIs
+REST APIs
+GraphQL APIs
+Webhooks
+Process Management with PM2
+Continuous Integration and Continuous Deployment (CI/CD)
+Node.js with Webpack
+Code Linting and Formatting (ESLint, Prettier)
+Working with AWS SDK in Node.js
+Unit Testing and Test-Driven Development (TDD)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+learn express js
+middleware
+routing
+routing versions
+route params
+query params
+compoenents of request
+components of response
+type of responses
+response status Codes
+
+
+
+What is Node.js?
+Setting Up Node.js
+Modules and require
+Creating a Simple HTTP Server: Using the http module to create a basic web server.
+
+Asynchronous Programming & Callbacks
+Promises and async/await
+Event Loop & Non-blocking I/O: Understanding how the event loop works, how Node.js handles I/O operations asynchronously, and the importance of non-blocking I/O.
+Error Handling: How to handle errors in asynchronous code, including try-catch blocks and custom error classes.
+
+File System (fs): Working with the file system to read, write, and manipulate files and directories.
+
+
+
+
+Principles behind the Agile Manifesto
